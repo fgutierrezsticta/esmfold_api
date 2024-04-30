@@ -4,7 +4,7 @@ import py3Dmol
 import requests
 import biotite.structure.io as bsio
 
-API_KEY = "put you api nvidia key..."
+API_KEY = "Bearer API_KEY" # replace with your api nvidia key...
 
 #st.set_page_config(layout = 'wide')
 st.sidebar.title('🎈 ESMFold')
